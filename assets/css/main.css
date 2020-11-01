@@ -3338,7 +3338,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background: #bee4f7;
 		}
 
 		#header .logo {
@@ -3354,7 +3354,7 @@
 
 			#header .logo a {
 				font-size: 1.25em;
-				color: #fff;
+				color: #2b2b2b;
 				font-weight: 600;
 				text-decoration: none;
 			}
@@ -4181,7 +4181,7 @@
 		background-color: #F64747;
 		color: #fdd1d1;
 		padding: 6em 0 4em 0;
-		background: #F64747;
+		background: #bee4f7;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -4197,7 +4197,7 @@
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #ffffff;
+			color: #000;
 		}
 
 		#footer blockquote {
@@ -4407,7 +4407,7 @@
 
 		#footer .icon.round {
 			display: block;
-			background: rgba(255, 255, 255, 0.15);
+			background: #000000;
 			border-radius: 100%;
 			height: 4em;
 			width: 4em;
@@ -4416,7 +4416,7 @@
 		}
 
 			#footer .icon.round:hover {
-				color: rgba(255, 255, 255, 0.25);
+				color: rgba(0, 195, 255, 0.541);
 				background: none;
 				box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.25);
 			}
@@ -4439,4 +4439,8 @@
 
 .box > header {
 	text-align: center;
+}
+
+.icons > a {
+	background: #000;
 }
