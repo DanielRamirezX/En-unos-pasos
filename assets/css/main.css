@@ -4189,7 +4189,7 @@
 		}
 
 		#footer a {
-			color: #ffffff;
+			color: #000;
 		}
 
 		#footer strong, #footer b {
@@ -4398,7 +4398,7 @@
 		}
 
 		#footer .copyright {
-			color: rgba(255, 255, 255, 0.5);
+			color: #000;
 			font-size: 0.8em;
 			margin: 0 0 2em 0;
 			padding: 0;
